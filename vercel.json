@@ -1,8 +1,0 @@
-{
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": null,
-  "installCommand": "cd campuseats-web && npm install",
-  "buildCommand": "cd campuseats-web && npm run build",
-  "outputDirectory": "campuseats-web/dist",
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
-}

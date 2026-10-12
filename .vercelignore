@@ -1,9 +1,0 @@
-# Only the frontend source is needed to build on Vercel
-report/
-campuseats-api/
-.github/
-**/node_modules/
-**/dist/
-.env
-.env.*
-*.docx
