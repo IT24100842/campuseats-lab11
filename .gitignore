@@ -1,0 +1,22 @@
+# Dependencies & build output
+node_modules/
+dist/
+bin/
+obj/
+
+# Secrets / local environment files – never commit these
+.env
+.env.*
+!.env.example
+appsettings.*.local.json
+
+# Editor / OS
+.vs/
+.vscode/
+.idea/
+*.user
+.DS_Store
+Thumbs.db
+
+# Lab report working files
+report/
