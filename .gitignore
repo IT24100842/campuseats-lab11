@@ -10,6 +10,9 @@ obj/
 !.env.example
 appsettings.*.local.json
 
+# Vercel CLI project link (contains project/org IDs)
+.vercel/
+
 # Editor / OS
 .vs/
 .vscode/
